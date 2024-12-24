@@ -18,7 +18,7 @@ export const Header = () => {
         <h1>
           <a href="/" className="logo">
             <img
-              src="/images/Logo.png"
+              src="./images/Logo.png"
               width={80}
               height={80}
               alt="Abdhulla A"

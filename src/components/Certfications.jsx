@@ -16,37 +16,37 @@ const reviews = [
     {
       content: 'Certified in Java Full Stack Development. Demonstrated expertise in building robust, scalable web applications.',
       name: 'Full Stack Java Developer',
-      imgSrc: '/images/Excelr.jpg',
+      imgSrc: './images/Excelr.jpg',
       company: 'Excelr'
     },
     {
       content: 'Completed React Front-End Development Certification. Specialized in creating dynamic, user-friendly interfaces.',
       name: 'React Front-End Developer',
-      imgSrc: '/images/hackerrank.png',
+      imgSrc: './images/hackerrank.png',
       company: 'HackerRank'
     },
     {
       content: 'Certified in Java Basics. Proficient in core concepts like OOP, data types, loops, and exception handling.',
       name: 'Java Basics Certification',
-      imgSrc: '/images/hackerrank.png',
+      imgSrc: './images/hackerrank.png',
       company: 'HackerRank'
     },
     {
       content: 'Certified in Java Full Stack Development. Demonstrated expertise in building robust, scalable web applications.',
       name: 'Full Stack Java Developer',
-      imgSrc: '/images/Excelr.jpg',
+      imgSrc: './images/Excelr.jpg',
       company: 'Excelr'
     },
     {
       content: 'Completed React Front-End Development Certification. Specialized in creating dynamic, user-friendly interfaces.',
       name: 'React Front-End Developer',
-      imgSrc: '/images/hackerrank.png',
+      imgSrc: './images/hackerrank.png',
       company: 'HackerRank'
     },
     {
       content: 'Certified in Java Basics. Proficient in core concepts like OOP, data types, loops, and exception handling.',
       name: 'Java Basics Certification',
-      imgSrc: '/images/hackerrank.png',
+      imgSrc: './images/hackerrank.png',
       company: 'HackerRank'
     }
    

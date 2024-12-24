@@ -7,57 +7,57 @@ import { SkillCard } from "./SkillCard";
 
 const skillItem = [
     {
-      imgSrc: '/images/html.svg',
+      imgSrc: './images/html.svg',
       label: 'HTML',
       desc: 'Markup Language'
     },
     {
-      imgSrc: '/images/css.svg',
+      imgSrc: './images/css.svg',
       label: 'CSS',
       desc: 'User Interface'
     },
     {
-      imgSrc: '/images/javascript.svg',
+      imgSrc: './images/javascript.svg',
       label: 'JavaScript',
       desc: 'Interaction'
     },
     {
-      imgSrc: '/images/bootstrap.svg',
+      imgSrc: './images/bootstrap.svg',
       label: 'BootStrap',
       desc: 'CSS Framework'
     },
     {
-      imgSrc: '/images/github-icon.svg',
+      imgSrc: './images/github-icon.svg',
       label: 'GitHub',
       desc: 'Version Control'
     },
     {
-      imgSrc: '/images/react.svg',
+      imgSrc: './images/react.svg',
       label: 'React',
       desc: 'Framework'
     },
     {
-        imgSrc: '/images/java.svg',
+        imgSrc: './images/java.svg',
         label: 'Java',
         desc: 'Programming Language'
     },
     {
-      imgSrc: '/images/spring.svg',
+      imgSrc: './images/spring.svg',
       label: 'SpringBoot',
       desc: 'Java Framework'
     },
     {
-      imgSrc: '/images/mysql.svg',
+      imgSrc: './images/mysql.svg',
       label: 'MySQL',
       desc: 'Database Management'
     },
     {
-      imgSrc: '/images/visual-studio-code.svg',
+      imgSrc: './images/visual-studio-code.svg',
       label: 'Visual Studio',
       desc: 'Code Editor'
     },
     {
-      imgSrc: '/images/vitejs.svg',
+      imgSrc: './images/vitejs.svg',
       label: 'Vite',
       desc: 'Build Tool'
     },

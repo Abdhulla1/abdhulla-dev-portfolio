@@ -18,7 +18,7 @@ import { Projects } from "./components/Projects";
 import { Certifications } from "./components/Certfications";
 import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
-import { use } from "react";
+// import { React } from "react";
 
 export default function App() {
   useGSAP(() => {

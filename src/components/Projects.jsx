@@ -7,19 +7,19 @@ import { ProjectCard } from "./ProjectCard";
 
 const projects = [
   {
-    imgSrc: "/images/project-1.png",
+    imgSrc: "./images/project-1.png",
     title: "Employee Management System",
     tags: ["Java", "Springboot", "React","MySQL","front-end integration"],
     projectLink: "https://github.com/Abdhulla1/Employee-Management-System",
   },
   {
-    imgSrc: "/images/project-2.png",
+    imgSrc: "./images/project-2.png",
     title: "Online Hotel Booking Management System",
     tags: ["Java", "Springboot", "React","MySQL","Bootstrap "],
     projectLink: "https://github.com/Abdhulla1/Online-Hotel-Booking-Management-System",
   },
   {
-    imgSrc: "/images/project-2.png",
+    imgSrc: "./images/project-2.png",
     title: "Online Hotel Booking Management System",
     tags: ["Java", "Springboot", "React","MySQL","Bootstrap "],
     projectLink: "https://github.com/Abdhulla1/Online-Hotel-Booking-Management-System",

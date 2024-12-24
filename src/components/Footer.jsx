@@ -86,7 +86,7 @@ export const Footer = () => {
 
             <div className="flex items-center justify-between pt-10 mb-8">
                 <a href="/" className="logo reveal-up">
-                    <img src="/images/Logo.png" width={70} height={70} alt="ab" />
+                    <img src="./images/Logo.png" width={70} height={70} alt="ab" />
                 </a>
                 <p className="text-zinc-500 text-sm reveal-up">
                     &copy; 2024 <span className="text-zinc-200">Abdhulla</span>

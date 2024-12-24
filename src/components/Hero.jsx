@@ -15,7 +15,7 @@ export const Hero = () => {
             <div>
                 <div className="flex items-center gap-3">
                     <figure className="img-box w-9 h9 rounded-lg">
-                        <img src="/images/image-mine.jpg" alt="Abdhulla A" width={50} height={50}  className="img-cover"/>
+                        <img src="./images/image-mine.jpg" alt="Abdhulla A" width={50} height={50}  className="img-cover"/>
                     </figure>
 
 
@@ -38,7 +38,7 @@ export const Hero = () => {
             </div>
             <div className="hidden lg:block">
                 <figure className="w-full max-w-[480px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400/40 to-65% rounded-[65px] overflow-hidden">
-                    <img src="/images/cover-image.png" alt="Abdhulla A" width={656} height={800} className="w-full" />
+                    <img src="./images/cover-image.png" alt="Abdhulla A" width={656} height={800} className="w-full" />
                 </figure>
             </div>
         </div>

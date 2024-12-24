@@ -32,7 +32,7 @@ export const About = () => {
                     </div>
                   ))
                   }
-                  <img src="/images/Logo.png" alt="Ab" width={70} height={70} className="ml-auto md:w-[80px] md:h-[80]" />
+                  <img src="./images/Logo.png" alt="Ab" width={70} height={70} className="ml-auto md:w-[80px] md:h-[80]" />
                 </div>
             </div>
         </div>
