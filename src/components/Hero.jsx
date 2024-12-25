@@ -31,7 +31,7 @@ export const Hero = () => {
                 </h2>
 
                 <div className="flex items-center gap-3 ">
-                    <ButtonPrimary label="Download Resume" icon="download" href={"https://drive.google.com/file/d/1ttU-93T50UhSLwDRblXLdZJ-TPjXbQX8/view?usp=sharing"} />
+                    <ButtonPrimary label="Download Resume" icon="download" href={"https://drive.usercontent.google.com/download?id=1ttU-93T50UhSLwDRblXLdZJ-TPjXbQX8&export=download"} />
 
                     <ButtonOutline href="#about"label="Scroll down" icon={"arrow_downward"}/>
                 </div>
