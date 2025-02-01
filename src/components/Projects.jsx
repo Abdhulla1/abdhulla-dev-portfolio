@@ -19,10 +19,10 @@ const projects = [
     projectLink: "https://github.com/Abdhulla1/Online-Hotel-Booking-Management-System",
   },
   {
-    imgSrc: "./images/project-2.png",
-    title: "Online Hotel Booking Management System",
-    tags: ["Java", "Springboot", "React","MySQL","Bootstrap "],
-    projectLink: "https://github.com/Abdhulla1/Online-Hotel-Booking-Management-System",
+    imgSrc: "./images/foodieApp.png",
+    title: "Foodie App",
+    tags: ["NextJs", "React","SQLlite3","HTML","CSS"],
+    projectLink: "https://foodiewebappp.netlify.app/",
   }
 ];
 
